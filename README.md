@@ -9,8 +9,8 @@ These courses overviewed methodologies and techniques to become a data engineer 
 
 ## Statements of Achievement
 
-- [20230216 R Programmer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230216_ R_Programmer-SOA.pdf)
-- [20230407 R Programmer (new)](https://github.com/Katsuvest/Data-Engineer/blob/master/20230407_ R_Programmer_(new)-SOA.pdf)
+- [20230216 R Programmer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230216_R_Programmer-SOA.pdf)
+- [20230407 R Programmer (new)](https://github.com/Katsuvest/Data-Engineer/blob/master/20230407_R_Programmer_(new)-SOA.pdf)
 - [20230712 Python Programmer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230712_Python_Programmer-SOA.pdf)
 - [20230721 Data Engineer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230721_Data_Engineer-SOA.pdf)
 
