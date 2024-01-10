@@ -11,6 +11,9 @@ These courses reviewed methodologies and techniques to become a data engineer in
 |                                              Career Tracks                                              | Completed  |
 | :------------------------------------------------------------------------------------------------------ | :--------: |
 | [Data Engineer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230721_Data_Engineer-SOA.pdf)  | 21/07/2023 |
+| [SQL for Data Administrators](https://github.com/Katsuvest/Data-Engineer/blob/master/20231128_SQL_for_Database_Administrators-SOA.pdf) | 28/11/2023 |
+| [SQL Server for Database Administrators](https://github.com/Katsuvest/Data-Engineer/blob/master/20231217_SQL_Server_for_Database_Administrators-SOA.pdf) | 17/12/2023 |
+
 
 ## Courses
 
