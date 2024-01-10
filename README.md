@@ -7,7 +7,7 @@ This repository contains qualifications and coursework related to data engineer 
 
 These courses reviewed methodologies and techniques to become a data engineer in Python, SQL and GIT.  
 
-## Statements of Achievement
+## Statements of Accomplishment
 |                                              Career Tracks                                              | Completed  |
 | :------------------------------------------------------------------------------------------------------ | :--------: |
 | [Data Engineer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230721_Data_Engineer-SOA.pdf)  | 21/07/2023 |
