@@ -12,15 +12,6 @@ These courses reviewed methodologies and techniques to become a data engineer in
 | :------------------------------------------------------------------------------------------------------ | :--------: |
 | [Data Engineer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230721_Data_Engineer-SOA.pdf)  | 21/07/2023 |
 
-
-|                                                                      Skill Tracks                                                                       | Completed  |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: |
-| [Big Data with PySpark](https://github.com/Katsuvest/Data-Engineer/blob/master/20230904_Big_Data_with_PySpark-SOA.pdf)                                  | 04/09/2023 |
-| [Big Data with R](https://github.com/Katsuvest/Data-Engineer/blob/master/20230325_Big_Data_with_R-SOA.pdf)                                              | 25/03/2023 |
-| [Importing and Cleaning Data with Python](https://github.com/Katsuvest/Data-Engineer/blob/master/20230517_Importing_Cleaning_Data_with_Python-SOA.pdf)  | 17/05/2023 |
-| [Importing and Cleaning Data with R](https://github.com/Katsuvest/Data-Engineer/blob/master/20230203_Importing_Cleaning_in_R-SOA.pdf)                   | 03/02/2023 |
-
-
 ## Courses
 
 |                                                                                                                  Course                                                                                                                   | Completed |                                        Topic                                        | Technology |
