@@ -39,4 +39,5 @@ In conclusion, having successfully navigated this career path, I am now well-pre
 | [Understanding Data Engineering](https://github.com/Katsuvest/Data-Engineering/tree/master/Understanding_Data_Engineering)                                    |  15-Jul-23   |    [Data-Engineering](https://github.com/Katsuvest/Data-Engineering/tree/master/)   |   Theory   |
 | [Understanding Data Visualization](https://github.com/Katsuvest/Data-Visualization/tree/master/Understanding_Data_Visualization)                              |  15-Jul-23   |  [Data-Visualization](https://github.com/Katsuvest/Data-Visualization/tree/master/) |   Theory   |
 | [Writing Efficient Python Code](https://github.com/Katsuvest/Programming/tree/master/Writing_Efficient_Python_Code)                                           |  02-Jul-23   |         [Programming](https://github.com/Katsuvest/Programming/tree/master/)        |   Python   |
+
 ​
