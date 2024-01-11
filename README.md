@@ -3,29 +3,27 @@
 
 # DataCamp Certification - Data Engineer
 
-This repository contains qualifications and coursework related to data engineer from DataCamp.
 
-These courses reviewed methodologies and techniques to become a data engineer in Python, SQL and GIT.  
+Throughout my journey in the Data Engineering career path, I gained comprehensive knowledge in Python, SQL, and Git, starting from scratch. I mastered the art of interacting with relational databases, proficiently querying, inputting, and modifying data. My hands-on experience extended to importing and cleaning data using Python, optimizing code for efficiency, and implementing tests to validate my work.
 
-## Statements of Achievement
+This completed career path equipped me with essential data engineering tools, beginning with SQL and Python, and progressing to advanced topics such as cloud computing, data clearing, and effective utilization of Git for version control.
+
+My foundational skills now enable me to work with data in diverse ways, providing me with the expertise needed to thrive as a data engineer. The acquired key concepts and skills encompass interpreting data visualizations, creating functions, and adeptly using version control.
+
+In conclusion, having successfully navigated this career path, I am now well-prepared to advance my professional journey by efficiently handling common data engineering duties.
+## Statements of Accomplishment
 |                                              Career Tracks                                              | Completed  |
 | :------------------------------------------------------------------------------------------------------ | :--------: |
 | [Data Engineer](https://github.com/Katsuvest/Data-Engineer/blob/master/20230721_Data_Engineer-SOA.pdf)  | 21/07/2023 |
-
-
-|                                                                      Skill Tracks                                                                       | Completed  |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: |
-| [Big Data with PySpark](https://github.com/Katsuvest/Data-Engineer/blob/master/20230904_Big_Data_with_PySpark-SOA.pdf)                                  | 04/09/2023 |
-| [Big Data with R](https://github.com/Katsuvest/Data-Engineer/blob/master/20230325_Big_Data_with_R-SOA.pdf)                                              | 25/03/2023 |
-| [Importing and Cleaning Data with Python](https://github.com/Katsuvest/Data-Engineer/blob/master/20230517_Importing_Cleaning_Data_with_Python-SOA.pdf)  | 17/05/2023 |
-| [Importing and Cleaning Data with R](https://github.com/Katsuvest/Data-Engineer/blob/master/20230203_Importing_Cleaning_in_R-SOA.pdf)                   | 03/02/2023 |
+| [SQL for Data Administrators](https://github.com/Katsuvest/Data-Engineer/blob/master/20231128_SQL_for_Database_Administrators-SOA.pdf) | 28/11/2023 |
+| [SQL Server for Database Administrators](https://github.com/Katsuvest/Data-Engineer/blob/master/20231217_SQL_Server_for_Database_Administrators-SOA.pdf) | 17/12/2023 |
 
 
 ## Courses
 
 |                                                                                                                  Course                                                                                                                   | Completed |                                        Topic                                        | Technology |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------------------------------------------------------------------------------: | :--------: |
-| [Building and Optimizing Triggers in SQL Server](https://github.com/Katsuvest/Programming/blob/master/Building_and_Optimizing_Triggers_in_SQL_Server/)                                                                                    |           |                                                                                     |     SQL    |
+| [Building and Optimizing Triggers in SQL Server](https://github.com/Katsuvest/Programming/blob/master/Building_and_Optimizing_Triggers_in_SQL_Server/)                                                                                    | 16-Dec-23 |                                                                                    |     SQL    |
 | [Cleaning Data in Python](https://github.com/Katsuvest/Data-Preparation/blob/master/Cleaning_Data_in_Python/20230516_Cleaning_Data_in_Python_certificate.pdf)                                                                             | 16-May-23 |    [Data Preparation](https://github.com/Katsuvest/Data-Preparation/blob/master/)   |   Python   |
 | [Database Design](https://github.com/Katsuvest/Data-Engineering/blob/master/Database_Design/20230720_Database_Design-certificate.pdf)                                                                                                     | 20-Jul-23 |    [Data Engineering](https://github.com/Katsuvest/Data-Engineering/blob/master/)   |     SQL    |
 | [Functions for Manipulating Data in SQL Server](https://github.com/Katsuvest/Data-Manipulation/blob/master/Functions_for_Manipulating_Data_in_SQL_Server/)                                                                                |           |                                                                                     |     SQL    |
