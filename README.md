@@ -9,8 +9,6 @@ My foundational skills now enable me to work with data in diverse ways, providin
 
 In conclusion, having successfully navigated this career path, I am now well-prepared to advance my professional journey by efficiently handling common data engineering duties.
 
-**Note - Couses marked without completion dates are part of my future studies.**
-
 ## Statements of Accomplishment
 |                                       Career Tracks                                       | Completed  |
 | :---------------------------------------------------------------------------------------- | :--------: |
