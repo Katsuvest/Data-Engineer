@@ -5,7 +5,7 @@ Throughout my journey in the **[Data Engineering](https://github.com/Katsuvest/D
 
 This completed career path equipped me with essential data engineering tools, beginning with **[SQL](https://github.com/Katsuvest/SQL)** and **[Python](https://github.com/Katsuvest/Python)**, and progressing to advanced topics such as cloud computing, data clearing, and effective utilization of **[Git](https://github.com/Katsuvest/GIT)** for version control.
 
-My foundational skills now enable me to work with data in diverse ways, providing me with the expertise needed to thrive as a data engineer. The acquired key concepts and skills encompass interpreting data visualizations, creating functions, and adeptly using version control.
+My foundational skills now enable me to work with data in diverse ways, providing me with the expertise needed to thrive as a `data engineer`. The acquired key concepts and skills encompass interpreting `data visualizations`, `creating functions`, and adeptly using `version control`.
 
 In conclusion, having successfully navigated this career path, I am now well-prepared to advance my professional journey by efficiently handling common data engineering duties.
 
