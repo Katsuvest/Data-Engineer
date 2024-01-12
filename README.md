@@ -1,4 +1,4 @@
-# Certifications - Data Engineer
+# Qualifications as a Data Engineer
 
 
 Throughout my journey in the **[Data Engineering](https://github.com/Katsuvest/Data-Engineer/tree/master/Data_Engineer.pdf)** career path (**completed 12-07-2023**), I gained comprehensive knowledge in **[Python](https://github.com/Katsuvest/Python)**, **[SQL](https://github.com/Katsuvest/SQL)**, and **[Git](https://github.com/Katsuvest/GIT)**, starting from scratch. I mastered the art of interacting with relational databases, proficiently querying, inputting, and modifying data. My hands-on experience extended to importing and cleaning data using Python, optimizing code for efficiency, and implementing tests to validate my work.
@@ -9,7 +9,8 @@ My foundational skills now enable me to work with data in diverse ways, providin
 
 In conclusion, having successfully navigated this career path, I am now well-prepared to advance my professional journey by efficiently handling common data engineering duties.
 
-## Courses
+## Completed Courses:
+
 
 |                                                                            Course                                                                             |  Completed   |                                       Topic                                        |                   Technology                   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: | :--------------------------------------------------------------------------------: | :--------------------------------------------: |
